@@ -1,2 +1,5 @@
 # clustering
-Clustering, en la era de YouTube
+
+Clustering, in YouTube age
+
+Artificial Intelligence Project. Clustering as a video summary technique.
